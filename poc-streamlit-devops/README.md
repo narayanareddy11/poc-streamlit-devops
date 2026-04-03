@@ -62,3 +62,5 @@ All data is randomly generated using `Faker` — no real infrastructure or crede
 
 **Narayana Reddy** — Senior DevOps & Platform Engineer  
 Hyderabad, India | GCP · AWS · K8s · Terraform · ArgoCD
+
+<!-- yolo -->
