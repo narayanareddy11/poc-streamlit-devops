@@ -68,7 +68,7 @@ if selected_service:
     incidents = incidents[incidents["service"].isin(selected_service)]
 
 # ── Page title ────────────────────────────────────────────────────────────────
-st.title("🚀 narayana DevOps Operations Dashboard")
+st.title("🚀 MCPDevOps Narayana Operations Dashboard")
 st.caption(f"Last {days} days · {datetime.now().strftime('%Y-%m-%d %H:%M')}")
 st.markdown("---")
 
